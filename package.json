@@ -1,0 +1,24 @@
+{
+  "name": "mongoos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waqas-Khan-CodeCanvas/mongoos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Waqas-Khan-CodeCanvas/mongoos/issues"
+  },
+  "homepage": "https://github.com/Waqas-Khan-CodeCanvas/mongoos#readme",
+  "dependencies": {
+    "mongoose": "^9.1.5"
+  }
+}
